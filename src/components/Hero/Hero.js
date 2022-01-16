@@ -5,7 +5,7 @@ class Hero extends React.Component {
   render() {
     return (
       <header className={styles.component}>
-        <h2 className={styles.title}>Thinks to do</h2>
+        <h2 className={styles.title}>Thinks to do 33</h2>
         <img className={styles.image} src={'./pexels-heloisa-vecchio-10447127.jpg'}></img>
       </header>
     )
